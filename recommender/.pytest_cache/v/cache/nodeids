@@ -1,0 +1,4 @@
+[
+  "test_server.py::test_links",
+  "test_server.py::test_sample_articles"
+]
